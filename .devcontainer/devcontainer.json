@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "cd /workspaces/qwen-cloud-chat && ./start.sh"
+}
